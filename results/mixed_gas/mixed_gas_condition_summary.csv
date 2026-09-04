@@ -1,0 +1,4 @@
+Condition,n_samples,Mean_H2S_score,Mean_CH4_score,Mean_CO2_score,Mean_AIR_score,Argmax_H2S,Argmax_CH4,Argmax_CO2,Argmax_AIR
+H2S+CH4+CO2,30,0.497,0.290,0.213,<0.001,17,9,4,0
+H2S+CH4,30,0.740,0.191,0.068,<0.001,26,4,0,0
+H2S+CO2,30,0.569,0.052,0.380,<0.001,23,0,7,0

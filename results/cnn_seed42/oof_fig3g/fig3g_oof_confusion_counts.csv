@@ -1,0 +1,5 @@
+,pred_H2S,pred_CH4,pred_CO2,pred_AIR
+true_H2S,91,5,4,0
+true_CH4,0,100,0,0
+true_CO2,6,0,94,0
+true_AIR,0,0,0,20
